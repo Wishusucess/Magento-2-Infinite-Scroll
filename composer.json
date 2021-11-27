@@ -1,0 +1,28 @@
+{
+  "name": "wishusucess/infinitescroll",
+  "description": "Infinite scroll for magento 2 automatically loads product catalog without reloading the page.",
+    "require": {
+    "wishusucess/core": "^1.0.0"
+  },
+  "type": "magento2-module",
+  "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Wishusucess",
+      "email": "support@wishusucess.com",
+      "homepage": "https://wishusucess.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+      "files": [
+          "registration.php"
+      ],
+      "psr-4": {
+          "Wishusucess\\InfiniteScroll\\": ""
+      }
+  }
+}
