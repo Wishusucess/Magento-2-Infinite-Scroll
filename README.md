@@ -4,6 +4,8 @@ Wishusucess_InfiniteScroll helps to auto load the product when user scroll the c
 # Why Wishusucess Ajax Scroll ?
 
 Wishusucess Ajax Infinite Scroll is an effective Magento 2 extension that reduces product load time by loading them automatically as users scroll down the website without reloading the whole page.
+![Auto Load products](https://user-images.githubusercontent.com/90965189/143720287-9884aee3-0d25-4a81-8030-aff5fd3c3e55.png)
+
 
 # Similar Exteansion of Wishusucess
 
